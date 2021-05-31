@@ -1,0 +1,13 @@
+//https://clips.twitch.tv/VictoriousBetterYogurtKappaRoss
+//https://clips.twitch.tv/PolishedPrettyNostrilGOWSkull
+//movename
+//startup
+//advantage
+//activeframes
+//totalframes
+//landinglag
+//notes
+//basedamage
+//shieldlag
+//shieldstun
+//whichhitbox
