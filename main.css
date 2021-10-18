@@ -1,4 +1,5 @@
 body {
+    background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4653144.jpg&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Faesthetic-moving-wallpapers&tbnid=nsmzypCVSMn0XM&vet=12ahUKEwiojNjL-9TzAhVCOq0KHVcuCLwQMygBegUIARDTAQ..i&docid=hx2i31COzm-6IM&w=3840&h=2160&q=animated%20backgrounds&hl=en&ved=2ahUKEwiojNjL-9TzAhVCOq0KHVcuCLwQMygBegUIARDTAQ);
     background-color: aqua;
 }
 h1 {
@@ -20,8 +21,6 @@ p1 {
     border: 3px solid black;
     background-color: bisque;
     display:inline-block;
-    
-    
 }
 .gif{
     width: 300px;
